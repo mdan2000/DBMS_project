@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = "1295127878:AAHl0ZuKuzRJ_9ATvZqrd1XlDnQf2EuOkNI"
+token = "*****"
 server = 'tcp:2020hsedbmstest.database.windows.net' 
 database = 'AdventureWorksLT' 
 username = 'stud20' 
